@@ -2,7 +2,7 @@
 ## Accurate & Profitable Trade Forecasts using Swarm Intelligence
 
  
-EquiTrader [EQT] – Technical Analysis on the Blockchain
+## EquiTrader [EQT] – Technical Analysis on the Blockchain
 
 Built by Traders, For Traders.
 
