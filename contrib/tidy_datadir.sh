@@ -2,7 +2,7 @@
 
 if [ -d "$1" ]; then
   cd "$1"
-else
+else 
   echo "Usage: $0 <datadir>" >&2
   echo "Removes obsolete Bitcoin database files" >&2
   exit 1
