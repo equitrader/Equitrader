@@ -1,6 +1,6 @@
 bitcoin               ICON    "pixmaps/bitcoin.ico"
 
-#include "wx/msw/wx.rc"
+#include "wx/msw/wx.rc" 
 
 check                 ICON    "pixmaps/check.ico"
 send16                BITMAP  "pixmaps/send16.bmp"
