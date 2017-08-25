@@ -1,5 +1,6 @@
 ## EquiTrader [EQT] – Monetizing Financial Market Analysis –  
-## Accurate & Profitable Trade Forecasts using Swarm Intelligence
+
+  Accurate & Profitable Trade Forecasts using Swarm Intelligence
 
  
 ## EquiTrader [EQT] – Technical Analysis on the Blockchain
